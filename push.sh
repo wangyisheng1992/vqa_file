@@ -8,6 +8,7 @@ git init
 # ssh-keygen -t rsa -C "983231802@qq.com"
 
 # 添加远程 GitHub 仓库
+git remote add origin https://github.com/wangyisheng1992/vqa_file.git
 git remote set-url origin git@github.com:wangyisheng1992/vqa_file.git
 
 # 添加所有文件到 Git 缓存区
